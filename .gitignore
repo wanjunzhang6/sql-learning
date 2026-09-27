@@ -1,0 +1,12 @@
+# SQL相关临时文件
+*.log
+*.sql~
+*.bak
+*.dump
+# 系统缓存文件
+Thumbs.db
+.DS_Store
+# 编辑器临时文件
+*.swp
+*.sublime-project
+*.sublime-workspace
